@@ -3,6 +3,12 @@
 # Overview
 Crafted an interactive Excel dashboard that transforms complex coffee sales data into clear, actionable insights, enabling strategic decision-making across regions, customer segments, and product lines.
 
+# Project Goals
+* Identify High-Value Customers and Sales Trends by Region
+* Analyze Coffee Sales by Type and Quantity 
+* Track Sales Performance Over Time 
+* Enable Real-Time Data Exploration with Filters and Timelines 
+
 # Features
 * __Total Sales Over Time:__ View monthly sales trends for various coffee types.
 * __Total Sales by Country:__ Compare sales across regions, including the United States, Ireland, and the United Kingdom.
